@@ -28,9 +28,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=for-the-badge&logo=AWS RDS&logoColor=white">
 <img src="https://img.shields.io/badge/Github ACTIONS-2088FF?style=for-the-badge&logo=AWS ACTIONS&logoColor=white"><img src="https://img.shields.io/badge/AWSEC2-FF9900?style=for-the-badge&logo=Amazon&logoColor=white"> <br />
 </div>
-
-
-
+<hr>
 <div align=center>
 <a href="https://java-develooooop.tistory.com/">
     <img 
