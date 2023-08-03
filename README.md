@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-un# 🖥️❤️
+🖥️❤️
 ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=FFFF00&height=400&section=header&text=jun%20young&fontSize=90&descAlign=100&animation=blink)
 
 
@@ -29,4 +29,3 @@ un# 🖥️❤️
 ![junyoun93's github stats](https://github-readme-stats.vercel.app/api?username=junyoung93&show_icons=true&theme=github_dark)
 [![junyoun93's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=junyoung93ID&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/junyoung93&theme=github_dark)
 
-![footer](https://capsule-render.vercel.app/api?section=footer)
