@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Github ACTIONS-2088FF?style=for-the-badge&logo=AWS ACTIONS&logoColor=white"><img src="https://img.shields.io/badge/AWSEC2-FF9900?style=for-the-badge&logo=Amazon&logoColor=white"> <br />
 ![junyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=junyoung93&theme=github_dark&show_icons=true)
 
-[![junyoun93's github stats](https://github-readme-stats.vercel.app/api/top-langs/?
+
 
