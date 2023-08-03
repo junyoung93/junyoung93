@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🖥️❤️
+
 ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=FFFF00&height=400&section=header&text=%20%20jun%20young&fontSize=90&descAlign=100&animation=blink)
 
 <div align=center>
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=for-the-badge&logo=AWS RDS&logoColor=white">
 <img src="https://img.shields.io/badge/Github ACTIONS-2088FF?style=for-the-badge&logo=AWS ACTIONS&logoColor=white"><img src="https://img.shields.io/badge/AWSEC2-FF9900?style=for-the-badge&logo=Amazon&logoColor=white"> <br />
 </div>
-
+<div align=center>
 <a href="https://java-develooooop.tistory.com/">
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://https://java-develooooop.tistory.com/)/"
@@ -38,7 +38,11 @@ Here are some ideas to get you started:
         src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yyijs0309@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-
+</div>
+<div align=center>
+    
 ![junyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=junyoung93&theme=github_dark&show_icons=true)
+
+</div>
 
 
