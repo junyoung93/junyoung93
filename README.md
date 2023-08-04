@@ -1,7 +1,8 @@
 <div align=center><h1>  Hi, I'm. 👋 </h1></div>
 
 
-![header](https://capsule-render.vercel.app/api?type=Transparent&color=timeGradient&text=junyoung&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&text=Welcome%20to%20Jiho's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+
 
 
 
