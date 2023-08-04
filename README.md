@@ -11,7 +11,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunyoung93&count_bg=%23F5B811&title_bg=%23090909&icon=uplabs.svg&icon_color=%23FFAB00&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
     
-<h2> 📌 SKILLS </h2>
+<h2> 📌 Tech Stack </h2>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.shields.io/badge/springboot-6DB33F?style=for-thebadge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/Github ACTIONS-2088FF?style=for-the-badge&logo=AWS ACTIONS&logoColor=white"><img src="https://img.shields.io/badge/AWSEC2-FF9900?style=for-the-badge&logo=Amazon&logoColor=white"> <br />
 
 
-<h2> 📮 FOLLOW  </h2>
+<h2> 📮 SNS  </h2>
 <a href="https://java-develooooop.tistory.com/">
     <img 
         src="http://img.shields.io/badge/-junyoung's%20Blog-655ced?style=flat&logo=github&link=https://https://java-develooooop.tistory.com/)/"
@@ -41,4 +41,5 @@
 </div>
 
 ![](./profile-3d-contrib/profile-3d-contrib/profile-gitblock.svg)
+![](./profile-3d-contrib/profile-green-animate.svg)
 
