@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <div align=center>
-    <h2> 📌 Skills </h2>
+    <h2> 📌 SKILLS </h2>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.shields.io/badge/springboot-6DB33F?style=for-thebadge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Github ACTIONS-2088FF?style=for-the-badge&logo=AWS ACTIONS&logoColor=white"><img src="https://img.shields.io/badge/AWSEC2-FF9900?style=for-the-badge&logo=Amazon&logoColor=white"> <br />
 
 
-<h2> 📮 Call  </h2>
+<h2> 📮 FOLLOW  </h2>
 <a href="https://java-develooooop.tistory.com/">
     <img 
         src="http://img.shields.io/badge/-junyoung's%20Blog-655ced?style=flat&logo=github&link=https://https://java-develooooop.tistory.com/)/"
