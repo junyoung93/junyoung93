@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Github ACTIONS-2088FF?style=for-the-badge&logo=AWS ACTIONS&logoColor=white"><img src="https://img.shields.io/badge/AWSEC2-FF9900?style=for-the-badge&logo=Amazon&logoColor=white"> <br />
 
 
-<h2> 📮  </h2>
+<h2> 📮 Call  </h2>
 <a href="https://java-develooooop.tistory.com/">
     <img 
         src="http://img.shields.io/badge/-junyoung's%20Blog-655ced?style=flat&logo=github&link=https://https://java-develooooop.tistory.com/)/"
