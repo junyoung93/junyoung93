@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=FFFF00&height=400&section=header&text=%20%20jun%20young&fontSize=90&descAlign=100&animation=blink)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunyoung93&count_bg=%23F5B811&title_bg=%23090909&icon=uplabs.svg&icon_color=%23FFAB00&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 <div align=center>
