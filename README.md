@@ -1,4 +1,4 @@
-<div align=center><h1>  Hi, I'm  👋 </h1></div>
+<div align=center><h1>  Hi, I'm. 👋 </h1></div>
 
 <!--
 **junyoung93/junyoung93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
